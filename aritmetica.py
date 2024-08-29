@@ -1,6 +1,5 @@
 def suma(a,b):
-    #TODO: "Implementar la suma de dos números"
-    pass
+    return a + b
 
 def resta(a,b):
     #TODO: "Implementar la resta de dos números"
