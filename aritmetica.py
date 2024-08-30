@@ -11,8 +11,9 @@ def multiplicacion(a,b):
     pass
 
 def division(a,b):
-    #TODO: "Implementar la división de dos números"
-    pass
+    if b == 0:
+        return "Error: División por cero"
+    return a / b
 
 def potencia(a,b):
     #TODO: "Implementar la potencia de un número"
