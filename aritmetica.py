@@ -6,9 +6,8 @@ def resta(a,b):
     #TODO: "Implementar la resta de dos números"
     pass    
 
-def multiplicacion(a,b):
-    #TODO: "Implementar la multiplicación de dos números"
-    pass
+def multiplicacion(a, b):
+    return a * b
 
 def division(a,b):
     #TODO: "Implementar la división de dos números"
