@@ -27,8 +27,12 @@ def modulo(a,b):
     pass
 
 def factorial(a):
-    #TODO: "Implementar el factorial de un número"
-    pass
+    if (a%1==0 or a>0):
+        if(a!=1):
+            res = a*factorial(a-1)
+        else: res =a
+    else : res = 0
+    return res
 
 def log(a):
     #TODO: "Implementar el logaritmo natural de un número"
