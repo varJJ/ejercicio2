@@ -1,3 +1,14 @@
+#AizaArceJhoelGustavo->RaizCuadrada
+#Jhazmin Portuguez Colque, operación de división.
+#Maria Fernanda Pizarroso (Función: Conversión de Grados a Radianes)
+#Gary Eliab Camacho Gonzales (Func. Logaritmo)
+#Valeria Nicole Daza Chambi ( multiplicación)
+#Jafet Canaza Febrero (Factorial)
+#Mora Vargas Alan(Modulo)
+#Juan Jose Vargas (Suma)
+#Vicente Mauricio Quinsamolle Vargas(resta)
+import math
+
 def suma(a,b):
     #TODO: "Implementar la suma de dos números"
     pass
@@ -18,9 +29,13 @@ def potencia(a,b):
     pass
 
 def raiz_cuadrada(a):
-    #TODO: "Implementar la raíz cuadrada de un número"
-    pass
-
+    # Implementado por Gustavo
+    # Verifica si el número es negativo
+    if a < 0:
+        raise ValueError("No se puede calcular la raíz cuadrada de un número negativo")
+    # Calcula y devuelve la raíz cuadrada del número
+    return math.sqrt(a)
+    
 def modulo(a,b):
     #TODO: "Implementar el módulo de dos números"
     pass
