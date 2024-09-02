@@ -14,7 +14,7 @@ def suma(a,b):
     pass
 
 def resta(a,b):
-    #TODO: "Implementar la resta de dos números"
+    return a-b
     pass    
 
 def multiplicacion(a,b):
