@@ -1,3 +1,5 @@
+#Función realizada por: Maria Fernanda Pizarroso Troncoso
+
 import math
 
 def suma(a,b):
