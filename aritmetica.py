@@ -58,6 +58,4 @@ def log(a):
     return 2 * result
 
 def deg_to_rad(a):
-    #TODO: "Implementar la conversión de grados a radianes"
-    pass
-
+    return math.radians(a)
