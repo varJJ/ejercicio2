@@ -23,8 +23,12 @@ def raiz_cuadrada(a):
     pass
 
 def modulo(a,b):
+    # Funcion implementada por Alan Giovanni Mora Vargas
     #TODO: "Implementar el módulo de dos números"
-    pass
+    if (a > b):
+        return a % b
+    else: 
+        print('No se puede sacar el modulo de un numero menor al divisor')
 
 def factorial(a):
     #TODO: "Implementar el factorial de un número"
