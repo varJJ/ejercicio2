@@ -1,3 +1,5 @@
+import math
+
 def suma(a,b):
     #TODO: "Implementar la suma de dos números"
     pass
@@ -19,8 +21,14 @@ def potencia(a,b):
     pass
 
 def raiz_cuadrada(a):
-    #TODO: "Implementar la raíz cuadrada de un número"
-    pass
+
+    # Implementado por Aiza Arce Jhoel Gustavo
+
+    # Verifica si el número es negativo
+    if a < 0:
+        raise ValueError("No se puede calcular la raíz cuadrada de un número negativo")
+    # Calcula y devuelve la raíz cuadrada del número
+    return math.sqrt(a)
 
 def modulo(a,b):
     #TODO: "Implementar el módulo de dos números"
