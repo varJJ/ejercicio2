@@ -27,6 +27,7 @@ def modulo(a,b):
     pass
 
 def factorial(a):
+    #implementado por Jafet Abner Canaza Febrero
     if (a%1==0 or a>0):
         if(a!=1):
             res = a*factorial(a-1)
