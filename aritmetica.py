@@ -14,7 +14,6 @@ def multiplicacion(a,b):
 
 def division(a,b):
     #Función de división desarrollado por Jhazmin Portuguez Colque
- def divide(a, b):
     if b == 0:
         return "Error: División por cero"
     return a / b
