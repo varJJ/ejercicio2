@@ -58,4 +58,5 @@ def log(a):
     return 2 * result
 
 def deg_to_rad(a):
+    # Función implementada por Maria Fernanda Pizarroso Troncoso
     return math.radians(a)
