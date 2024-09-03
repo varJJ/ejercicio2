@@ -1,3 +1,5 @@
+import math
+
 def suma(a,b):
     #TODO: "Implementar la suma de dos números"
     pass
@@ -35,6 +37,4 @@ def log(a):
     pass
 
 def deg_to_rad(a):
-    #TODO: "Implementar la conversión de grados a radianes"
-    pass
-
+    return math.radians(a)
