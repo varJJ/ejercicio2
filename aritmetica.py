@@ -13,8 +13,12 @@ def multiplicacion(a,b):
     return a * b
 
 def division(a,b):
-    #TODO: "Implementar la división de dos números"
-    pass
+    #Función de división desarrollado por Jhazmin Portuguez Colque
+ def divide(a, b):
+    if b == 0:
+        return "Error: División por cero"
+    return a / b
+
 
 def potencia(a,b):
     #TODO: "Implementar la potencia de un número"
