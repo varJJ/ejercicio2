@@ -9,8 +9,8 @@ def resta(a,b):
     return a-b   
 
 def multiplicacion(a,b):
-    #TODO: "Implementar la multiplicación de dos números"
-    pass
+    # Función implementada por Valeria Daza
+    return a * b
 
 def division(a,b):
     #TODO: "Implementar la división de dos números"
