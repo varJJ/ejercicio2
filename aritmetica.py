@@ -9,7 +9,7 @@ def resta(a,b):
     return a-b   
 
 def multiplicacion(a,b):
-    # Función implementada por Valeria Daza
+    # Función implementada por Valeria Nicole Daza Chambi
     return a * b
 
 def division(a,b):
