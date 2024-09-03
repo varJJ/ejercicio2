@@ -39,8 +39,19 @@ def factorial(a):
     pass
 
 def log(a):
-    #TODO: "Implementar el logaritmo natural de un número"
-    pass
+    # Funcion implementada por Gary E. Camacho G.
+    if a <= 0:
+        raise ValueError("El logaritmo natural no está definido para números no positivos.")
+    
+    n = iterations
+    x = (a - 1) / (a + 1)
+    result = 0
+
+    for i in range(1, n+1, 2):
+        term = (x ** i) / i
+        result += term
+
+    return 2 * result
 
 def deg_to_rad(a):
     #TODO: "Implementar la conversión de grados a radianes"
