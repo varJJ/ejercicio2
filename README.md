@@ -1,6 +1,9 @@
 # ejercicio2
-Jhazmin Portuguez Colque, operación de división.
-Maria Fernanda Pizarroso (Función: Conversión de Grados a Radianes)
-Jafet Abner Canaza Febrero, Funcion Factorial(!)
-Aiza Arce Jhoel Gustavo -> Raiz Cuadrada
-Quinsamolle Vargas Vicente Mauricio : Funcion resta
+<ul>
+  <li>Jhazmin Portuguez Colque: Operación de división</li>
+  <li>Maria Fernanda Pizarroso: Conversión de grados a radianes</li>
+  <li>Jafet Abner Canaza Febrero: Función factorial (!)</li>
+  <li>Aiza Arce Jhoel Gustavo: Raíz cuadrada</li>
+  <li>Quinsamolle Vargas Vicente Mauricio: Función resta</li>
+  <li>Juan Jose Vargas: Función suma</li>
+</ul>
