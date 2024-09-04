@@ -1,5 +1,5 @@
 from aritmetica import (
-    suma, resta, multiplicacion, division, potencia,
+    suma, resta, multiplicacion, division,
     raiz_cuadrada, modulo, factorial, log, deg_to_rad
 )
 
@@ -11,7 +11,6 @@ def main():
     print(f"Resta: {resta(a, b)}")
     print(f"Multiplicación: {multiplicacion(a, b)}")
     print(f"División: {division(a, b)}")
-    print(f"Potencia: {potencia(a, b)}")
     print(f"Raíz Cuadrada: {raiz_cuadrada(a)}")
     print(f"Módulo: {modulo(a, b)}")
     print(f"Factorial: {factorial(a)}")
