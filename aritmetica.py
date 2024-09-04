@@ -18,11 +18,6 @@ def division(a,b):
         return "Error: División por cero"
     return a / b
 
-
-def potencia(a,b):
-    #TODO: "Implementar la potencia de un número"
-    pass
-
 def raiz_cuadrada(a):
 
     # Implementado por Aiza Arce Jhoel Gustavo
