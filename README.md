@@ -6,4 +6,5 @@
   <li>Aiza Arce Jhoel Gustavo: Raíz cuadrada</li>
   <li>Quinsamolle Vargas Vicente Mauricio: Función resta</li>
   <li>Juan Jose Vargas: Función suma</li>
+  <li>Alan Giovanni Mora Vargas: Función modulo</li>
 </ul>
