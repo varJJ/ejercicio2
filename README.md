@@ -7,4 +7,5 @@
   <li>Quinsamolle Vargas Vicente Mauricio: Función resta</li>
   <li>Juan Jose Vargas: Función suma</li>
   <li>Alan Giovanni Mora Vargas: Función modulo</li>
+  <li>Gary Eliab Camacho Gonzales: Función logaritmo</li>
 </ul>
